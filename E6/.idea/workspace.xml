@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36231552-55e3-44c9-892a-e73ba556b440" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/.idea/artifacts/E06_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/E06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/out/artifacts/E06_jar/E06.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/out/production/E06/Retangulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArquivoJar/src/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Execucao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Execucao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Execucao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Execucao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Execucao/E6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Execucao/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E7/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../E7/.idea/compiler.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RMJceW60AWXkOD15Y6IIE8H55d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/julia/OneDrive/Documentos/POO2/E6/Execucao",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="E6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="E6" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36231552-55e3-44c9-892a-e73ba556b440" name="Changes" comment="" />
+      <created>1687054098741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687054098741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
